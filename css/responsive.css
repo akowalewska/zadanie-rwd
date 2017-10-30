@@ -1,0 +1,13 @@
+@media (max-width: 1170px) {
+    #background {
+        
+   
+    }
+}
+
+@media (max-width: 992px) {
+    #background {
+        background-image: url(../img/man-2.jpg);
+        
+    }
+}
