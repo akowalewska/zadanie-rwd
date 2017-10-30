@@ -18,3 +18,23 @@
     }
 }
 
+@media (max-width: 480px) {
+   #header {
+        background-image: url(../img/man-1.jpg);
+        background-position: center top;
+        padding: 50%;
+        margin-bottom: 30%;
+
+    }
+    #text {
+        top: 85%;
+        right: 25%;
+        left: 0;
+        text-align: center;
+        width: 100%;
+        margin-left: 0;
+    }
+    #header h1, #header h2 {
+        color: #000;
+    }
+}
